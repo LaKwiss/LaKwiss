@@ -1,7 +1,3 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaKwiss)](https://github.com/anuraghazra/github-readme-stats)
-
 [![MasterHead](https://github.com/LaKwiss/LaKwiss/blob/main/header.png)](https://github.com/lakwiss)
 
 <!--
