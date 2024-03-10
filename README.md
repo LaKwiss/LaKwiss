@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My favorties technologies are :</h2>
+<h2 align="left">My favorite technologies are :</h2>
 
 ###
 
